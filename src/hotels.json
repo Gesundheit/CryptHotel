@@ -1,0 +1,44 @@
+[
+  {
+    "id": 0,
+    "name": "Radisson Blu",
+    "picture": "images/radissondelhi.png",
+    "rooms": 3,
+    "location": "New Delhi"
+  },
+  {
+    "id": 1,
+    "name": "Piccadilly",
+    "picture": "images/piccadilydelhi.png",
+    "rooms": 5,
+    "location": "Janakpuri, New Delhi"
+  },
+  {
+    "id": 2,
+    "name": "JW Marriott",
+    "picture": "images/marriotdelhi.jpg",
+    "rooms": 10,
+    "location": "Aerocity, New Delhi"
+  },
+  {
+    "id": 3,
+    "name": "Hyatt Regency",
+    "picture": "images/hyattdelhi.png",
+    "rooms": 7,
+    "location": "Bhikaji Cama Place, New Delhi"
+  },
+  {
+    "id": 4,
+    "name": "Welcom Hotel by ITC",
+    "picture": "images/welcomdwarka.png",
+    "rooms": 8,
+    "location": "Dwarka, New Delhi"
+  },
+  {
+    "id": 5,
+    "name": "ITC Maurya",
+    "picture": "images/itcmaurya.jpg",
+    "rooms": 3,
+    "location": "New Delhi"
+  }
+]
